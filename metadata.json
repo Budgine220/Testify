@@ -1,0 +1,6 @@
+{
+  "name": "Testify",
+  "description": "A comprehensive diagnostic app to test phone hardware sensors, screen, audio, camera, and overall device health with detailed reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
